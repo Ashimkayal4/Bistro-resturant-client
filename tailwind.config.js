@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'bistro':"url('/src/assets/home/chef-service.jpg')"
+        'bistro':"url('/src/assets/home/chef-service.jpg')",
+        'featured':"url('/src/assets/home/featured.jpg')"
       }
     },
   },
