@@ -9,7 +9,7 @@ const Root = () => {
                 <Navbar></Navbar>
                 <Outlet></Outlet>
             </section>
-            <section>
+            <section className="mt-8">
                 <Footer></Footer>
             </section>
         </div>
